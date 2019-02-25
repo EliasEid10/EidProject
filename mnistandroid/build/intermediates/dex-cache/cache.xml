@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\elias\.android\build-cache\7a8f8f1c41b4a8cea982b252578e1a17f955efae\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\elias\Desktop\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7a7329167349028e302622c754d4cb5e0a15dcf2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\elias\.android\build-cache\052041130722c55cb6a49062edb328b4680e4994\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\elias\Desktop\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_130151e3a322acee25680dd3d78285b5fb555887\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\elias\.android\build-cache\c74669ad61ab26bd2892e7e351df751f6d3c92f8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\elias\Desktop\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_262e4317a94c41e5bd64e38d5818130496035052\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\elias\.android\build-cache\807871ae388f8ea46733268dbde1a97cc9e6e54d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\elias\Desktop\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_32d984f1a468dbfc7e63c7b6d0b29fbceb1de54e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\elias\.android\build-cache\fb43e5481959c81713ebc9d6577c012ba984ba72\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\elias\Desktop\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9138087e9216464712a2f10132fe20b65431db6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\elias\.android\build-cache\cd0711fa7befbce0090a2d33152946fd7852bb01\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\elias\Desktop\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e8c11b174594036e2582c048b929712018ca2cb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\elias\.android\build-cache\7f8bf65d1cbcb193cc612a8a51b8812a3b931511\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08b7bb0240c9df70b9af7c07496023df477d2640">
+        <dex dex="C:\Users\elias\Desktop\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d0e31c28361d68a7e9cb213b4465ffacc0ca4f89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\elias\Desktop\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27a37885d3902dd9e61940a6403b533af0f3158e">
+        <dex dex="C:\Users\elias\Desktop\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d5de758ca0fdbc33d11f075184c57127dc7b9b24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\elias\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\elias\Desktop\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_4a9a6cf9ee7d640eb29d32bedcb8c6e902d26117\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\elias\Desktop\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="C:\Users\elias\Desktop\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_eed2bb22f489666256251290373b2794d525d528\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\elias\.android\build-cache\d47d0ef1c54bf9ae318067bdff89f866be76df18\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\elias\Desktop\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e683722f7c7aa0db6a8bc426e1838bc16b51b5e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\elias\.android\build-cache\425bee0e67c3eb2b27a0456c11236b6439136521\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\elias\Desktop\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fef17683b1bf682a18af4c8273479ea9a3c19cde\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\elias\.android\build-cache\7b5b59b08ef826d47e78f36d1b247ba969384bbb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\elias\Desktop\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2347bcbfd1e6951dd7c0c495a1ea7c561c147719\classes.dex" />
+    </item>
+
+</items>

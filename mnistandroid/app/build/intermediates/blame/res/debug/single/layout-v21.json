@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\elias\\Desktop\\A_Guide_to_Running_Tensorflow_Models_on_Android-master\\mnistandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\elias\\.android\\build-cache\\7a8f8f1c41b4a8cea982b252578e1a17f955efae\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\elias\\Desktop\\A_Guide_to_Running_Tensorflow_Models_on_Android-master\\mnistandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\elias\\.android\\build-cache\\7a8f8f1c41b4a8cea982b252578e1a17f955efae\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\elias\\Desktop\\A_Guide_to_Running_Tensorflow_Models_on_Android-master\\mnistandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\elias\\.android\\build-cache\\7a8f8f1c41b4a8cea982b252578e1a17f955efae\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\elias\\Desktop\\A_Guide_to_Running_Tensorflow_Models_on_Android-master\\mnistandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\elias\\.android\\build-cache\\7a8f8f1c41b4a8cea982b252578e1a17f955efae\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]

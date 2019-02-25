@@ -1,0 +1,7 @@
+CSIS492 -- Senior Seminar
+
+Project: Android App that uses TensorFlow API
+
+App will be able to detect multiple superhero characters using the camera sensor on a phone.
+App will also be able to detect and classify touch user input.
+
