@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">EidProject</string>
-    <string name="clear">Clear</string>
-    <string name="detect">Detect</string>
+    <string name="btn_recognize_text">Identify Superhero</string>
+    <string name="result_no_hero_found">Ops I don\'t know this Superhero</string>
+    <string name="result_confident_hero_found">This is surely %1$s.</string>
+    <string name="result_think_hero_found">This might be %1$s.</string>
+    <string name="result_maybe_hero_found">Hmm, is this %1$s?</string>
 </resources>

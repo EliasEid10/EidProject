@@ -1,7 +1,0 @@
-#Mon Feb 25 00:01:42 CST 2019
-base.0=C\:\\Users\\elias\\Desktop\\A_Guide_to_Running_Tensorflow_Models_on_Android-master\\mnistandroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d5de758ca0fdbc33d11f075184c57127dc7b9b24
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=C\:\\Users\\elias\\Desktop\\A_Guide_to_Running_Tensorflow_Models_on_Android-master\\mnistandroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_eed2bb22f489666256251290373b2794d525d528\\classes.dex
-base.1=C\:\\Users\\elias\\Desktop\\A_Guide_to_Running_Tensorflow_Models_on_Android-master\\mnistandroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_eed2bb22f489666256251290373b2794d525d528
-file.0=C\:\\Users\\elias\\Desktop\\A_Guide_to_Running_Tensorflow_Models_on_Android-master\\mnistandroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d5de758ca0fdbc33d11f075184c57127dc7b9b24\\classes.dex

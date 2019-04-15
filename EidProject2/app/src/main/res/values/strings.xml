@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EidProject2</string>
+    <string name="prompt">Draw a digit between 0 and 9 in the space below:</string>
+</resources>
